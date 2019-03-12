@@ -1,0 +1,11 @@
+*.class
+#package files
+
+
+#idea
+.idea/
+target/
+/idea/
+*.iml
+my_everything.mv.db
+my_everything.trace.db
